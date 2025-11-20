@@ -1,0 +1,193 @@
+
+
+    <div class="flex items-center gap-3">
+
+      <div class="w-16 h-16 rounded-full overflow-hidden border-2 border-yellow-400 shadow-lg">
+
+        <img src="https://scontent.fyyz1-2.fna.fbcdn.net/v/t39.30808-6/482249077_1087311016741644_3848704675613256386_n.jpg" alt="Root shoot_Hair Logo" class="object-cover w-full h-full" />
+
+      </div>
+
+      <h1 class="text-2xl font-bold text-yellow-400 tracking-wide">Rootshoot_Hair</h1>
+
+    </div>
+
+    <nav class="flex gap-6 text-sm uppercase tracking-wider text-gray-300">
+
+      <a href="#about" class="hover:text-red-400 transition">About</a>
+
+      <a href="#services" class="hover:text-red-400 transition">Services</a>
+
+      <a href="#gallery" class="hover:text-red-400 transition">Gallery</a>
+
+      <a href="#contact" class="hover:text-red-400- transition">Contact</a>
+
+    </nav>
+
+  </header>
+ed
+
+
+  <!-- Hero Section -->
+
+  <section class="bg-hero text-center py-24 px-4">
+
+    <h2 class="text-5xl md:text-6xl font-extrabold mb-6 text-yellow-400 drop-shadow-xl">Redefine Your Luxury Style</h2>
+
+    <p class="text-lg text-gray-200 max-w-2xl mx-auto">Experience premium hair artistry and sophistication at rootshoot — where beauty meets craftsmanship.</p>
+
+  </section>
+
+
+
+  <!-- About Me -->
+
+  <section id="about" class="py-20 bg-yellow-50 text-center text-black">
+
+    <h3 class="text-4xl font-bold text-yellow-600 mb-6 flex justify-center items-center gap-3"><i class="fas fa-user text-yellow-500"></i> About Me</h3>
+
+    <div class="max-w-3xl mx-auto text-gray-700 leading-relaxed text-lg">
+
+      <p>Hi, I’m <span class="font-semibold text-yellow-700">Ranveer</span>,. At <span class="font-semibold text-yellow-700">HairByRanveer</span>Newly graduated from MC College with a strong passion for hairstyling, colour, and the latest trends. Experienced in providing excellent customer service, ensuring every client feels welcomed and valued. Gained extensive hands-on practice in the school salon, performing a variety of hair services with professionalism and creativity. Highly motivated to begin an apprenticeship under experienced hairstylists to continue developing my skills — especially in brunette colouring and enhancing clients’ confidence through beautiful hair. Dedicated, adaptable, and eager to learn and grow in the salon industry.</p>
+
+      <p class="mt-4">When you visit my salon, you’re not just getting a service — you’re indulging in a luxury experience designed to rejuvenate your style and spirit.</p>
+
+    </div>
+
+  </section>
+
+
+
+  <!-- Services -->
+
+  <section id="services" class="py-20 bg-black text-center">
+
+    <h3 class="text-4xl font-bold text-yellow-400 mb-12">Our Signature Services</h3>
+
+    <div class="grid sm:grid-cols-2 md:grid-cols-4 gap-8 px-8">
+
+      <div class="bg-yellow-100 text-black p-8 rounded-3xl shadow-xl border border-yellow-300 hover:scale-105 transition-transform">
+
+        <i class="fas fa-cut text-yellow-600 text-4xl mb-4"></i>
+
+        <h4 class="font-semibold text-xl mb-2">Haircuts</h4>
+
+        <p>Luxury precision cuts tailored to your face shape and lifestyle.</p>
+
+      </div>
+
+      <div class="bg-yellow-50 text-black p-8 rounded-3xl shadow-xl border border-yellow-300 hover:scale-105 transition-transform">
+
+        <i class="fas fa-brush text-yellow-600 text-4xl mb-4"></i>
+
+        <h4 class="font-semibold text-xl mb-2">Balayage</h4>
+
+        <p>Sun-kissed balayage crafted with premium color techniques.</p>
+
+      </div>
+
+      <div class="bg-yellow-100 text-black p-8 rounded-3xl shadow-xl border border-yellow-300 hover:scale-105 transition-transform">
+
+        <i class="fas fa-star text-yellow-600 text-4xl mb-4"></i>
+
+        <h4 class="font-semibold text-xl mb-2">Highlights</h4>
+
+        <p>Dimensional highlights that bring radiance and depth to your look.</p>
+
+      </div>
+
+      <div class="bg-yellow-50 text-black p-8 rounded-3xl shadow-xl border border-yellow-300 hover:scale-105 transition-transform">
+
+        <i class="fas fa-wave-square text-yellow-600 text-4xl mb-4"></i>
+
+        <h4 class="font-semibold text-xl mb-2">Perms</h4>
+
+        <p>Soft, voluminous curls and waves with a lasting luxurious texture.</p>
+
+      </div>
+
+    </div>
+
+  </section>
+
+
+
+  <!-- Gallery -->
+
+  <section id="gallery" class="py-20 bg-gray-900 text-center">
+
+    <h3 class="text-4xl font-bold text-yellow-400 mb-12">Our Artistry</h3>
+
+    <div class="grid md:grid-cols-4 gap-6 px-8">
+
+      <img src="https://s3-media0.fl.yelpcdn.com/bphoto/gmd_RMGiyuf9qUP58UxoAA/l.jpg" class="rounded-2xl shadow-lg hover:scale-105 transition-transform" alt="Gallery 1" />
+
+      <img src="https://static.wixstatic.com/media/6f8132_d0ede4050c6f4c44a55a7d2ad17132c9~mv2.jpg/v1/fill/w_640,h_418,al_c,q_90,enc_avif,quality_auto/6f8132_d0ede4050c6f4c44a55a7d2ad17132c9~mv2.jpg" class="rounded-2xl shadow-lg hover:scale-105 transition-transform" alt="Gallery 2" />
+
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbc0Bm3in31KndhShjEvy5-PDcccZe7aDdRg&s" class="rounded-2xl shadow-lg hover:scale-105 transition-transform" alt="Gallery 3" />
+
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6-CEjj3-0Q1R0m_qyUw0hu59mQ6HnASCrdQ&s" class="rounded-2xl shadow-lg hover:scale-105 transition-transform" alt="Gallery 4" />
+
+    </div>
+
+  </section>
+
+
+
+  <!-- Contact -->
+
+  <section id="contact" class="py-20 bg-yellow-50 text-center text-black">
+
+    <h3 class="text-3xl font-bold text-yellow-600 mb-6">Contact Us</h3>
+
+    <p><i class="fas fa-phone text-yellow-500 mr-2"></i> <a href="tel:+1702071997">+1 (702) 071-997</a></p>
+
+    <p><i class="fas fa-envelope text-yellow-500 mr-2"></i> <a href="mailto:ranveerfdk1997@gmail.com">ranveerfdk1997@gmail.com</a></p>
+
+    <p><i class="fab fa-instagram text-yellow-500 mr-2"></i> <a href="https://instagram.com/hairbyranveer">@hairbyranveer</a></p>
+
+    <p><i class="fas fa-map-marker-alt text-yellow-500 mr-2"></i> Edmonton, AB</p>
+
+  </section>
+
+
+
+  <!-- Floating Book Appointment Button -->
+
+  <div class="fixed bottom-6 left-6">
+
+    <a href="#contact" class="bg-yellow-500 hover:bg-yellow-600 text-black font-semibold px-5 py-3 rounded-full shadow-lg flex items-center gap-2">
+
+      <i class="fas fa-calendar-alt"></i> Book Appointment
+
+    </a>
+
+  </div>
+
+
+
+  <!-- WhatsApp Button -->
+
+  <div class="fixed bottom-6 right-6">
+
+    <a href="https://wa.me/1702071997?text=Hi%20Ranveer!%20I%27d%20like%20to%20book%20an%20appointment." target="_blank" class="bg-yellow-500 text-black p-4 rounded-full shadow-lg hover:bg-yellow-600 transition">
+
+      <i class="fab fa-whatsapp text-2xl"></i>
+
+    </a>
+
+  </div>
+
+
+
+  <!-- Footer -->
+
+  <footer class="py-6 text-center text-gray-400 text-sm bg-black border-t border-yellow-500">
+
+    © 2025 HairByRanveer — Crafted with Elegance
+
+  </footer>
+
+</body>
+
+</html>
